@@ -145,6 +145,10 @@
                 <value>Name</value>
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
+                <name>animations</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentName>PictureGalleryCard</componentName>
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
